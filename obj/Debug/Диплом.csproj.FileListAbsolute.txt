@@ -1,0 +1,58 @@
+C:\Users\Степан\Documents\Университет\4-ый курс, 1-ый семестр\Защита от разруш возд\Диплом\Курсовая\Курсовая\bin\Debug\Диплом.exe.config
+C:\Users\Степан\Documents\Университет\4-ый курс, 1-ый семестр\Защита от разруш возд\Диплом\Курсовая\Курсовая\bin\Debug\Диплом.exe.manifest
+C:\Users\Степан\Documents\Университет\4-ый курс, 1-ый семестр\Защита от разруш возд\Диплом\Курсовая\Курсовая\bin\Debug\Диплом.application
+C:\Users\Степан\Documents\Университет\4-ый курс, 1-ый семестр\Защита от разруш возд\Диплом\Курсовая\Курсовая\bin\Debug\Диплом.exe
+C:\Users\Степан\Documents\Университет\4-ый курс, 1-ый семестр\Защита от разруш возд\Диплом\Курсовая\Курсовая\bin\Debug\Диплом.pdb
+C:\Users\Степан\Documents\Университет\4-ый курс, 1-ый семестр\Защита от разруш возд\Диплом\Курсовая\Курсовая\obj\Debug\Диплом.csprojResolveAssemblyReference.cache
+C:\Users\Степан\Documents\Университет\4-ый курс, 1-ый семестр\Защита от разруш возд\Диплом\Курсовая\Курсовая\obj\Debug\Курсовая.Form1.resources
+C:\Users\Степан\Documents\Университет\4-ый курс, 1-ый семестр\Защита от разруш возд\Диплом\Курсовая\Курсовая\obj\Debug\Диплом.Properties.Resources.resources
+C:\Users\Степан\Documents\Университет\4-ый курс, 1-ый семестр\Защита от разруш возд\Диплом\Курсовая\Курсовая\obj\Debug\Диплом.csproj.GenerateResource.Cache
+C:\Users\Степан\Documents\Университет\4-ый курс, 1-ый семестр\Защита от разруш возд\Диплом\Курсовая\Курсовая\obj\Debug\Диплом.csproj.CoreCompileInputs.cache
+C:\Users\Степан\Documents\Университет\4-ый курс, 1-ый семестр\Защита от разруш возд\Диплом\Курсовая\Курсовая\obj\Debug\Диплом.exe.manifest
+C:\Users\Степан\Documents\Университет\4-ый курс, 1-ый семестр\Защита от разруш возд\Диплом\Курсовая\Курсовая\obj\Debug\Диплом.application
+C:\Users\Степан\Documents\Университет\4-ый курс, 1-ый семестр\Защита от разруш возд\Диплом\Курсовая\Курсовая\obj\Debug\Диплом.exe
+C:\Users\Степан\Documents\Университет\4-ый курс, 1-ый семестр\Защита от разруш возд\Диплом\Курсовая\Курсовая\obj\Debug\Диплом.pdb
+C:\Users\Степан\Documents\Университет\Диплом\Курсовая\bin\Debug\Диплом.exe.config
+C:\Users\Степан\Documents\Университет\Диплом\Курсовая\obj\Debug\Диплом.exe
+C:\Users\Степан\Documents\Университет\Диплом\Курсовая\obj\Debug\Диплом.pdb
+C:\Users\Степан\Documents\Университет\Диплом\Курсовая\bin\Debug\Диплом.exe.manifest
+C:\Users\Степан\Documents\Университет\Диплом\Курсовая\bin\Debug\Диплом.application
+C:\Users\Степан\Documents\Университет\Диплом\Курсовая\bin\Debug\Диплом.exe
+C:\Users\Степан\Documents\Университет\Диплом\Курсовая\bin\Debug\Диплом.pdb
+C:\Users\Степан\Documents\Университет\Диплом\Курсовая\obj\Debug\Диплом.csprojResolveAssemblyReference.cache
+C:\Users\Степан\Documents\Университет\Диплом\Курсовая\obj\Debug\Курсовая.Form1.resources
+C:\Users\Степан\Documents\Университет\Диплом\Курсовая\obj\Debug\Диплом.Properties.Resources.resources
+C:\Users\Степан\Documents\Университет\Диплом\Курсовая\obj\Debug\Диплом.csproj.GenerateResource.Cache
+C:\Users\Степан\Documents\Университет\Диплом\Курсовая\obj\Debug\Диплом.csproj.CoreCompileInputs.cache
+C:\Users\Степан\Documents\Университет\Диплом\Курсовая\obj\Debug\Диплом.exe.manifest
+C:\Users\Степан\Documents\Университет\Диплом\Курсовая\obj\Debug\Диплом.application
+C:\Users\Степан\Documents\Университет\Диплом\Диплом\obj\Debug\Диплом.Form1.resources
+C:\Users\Степан\Documents\Университет\Диплом\Диплом\obj\Debug\Диплом.Form2.resources
+C:\Users\Степан\Documents\Университет\Диплом\Диплом\obj\Debug\Диплом.Properties.Resources.resources
+C:\Users\Степан\Documents\Университет\Диплом\Диплом\obj\Debug\Диплом.csproj.GenerateResource.Cache
+C:\Users\Степан\Documents\Университет\Диплом\Диплом\obj\Debug\Диплом.csproj.CoreCompileInputs.cache
+C:\Users\Степан\Documents\Университет\Диплом\Диплом\obj\Debug\Диплом.exe.manifest
+C:\Users\Степан\Documents\Университет\Диплом\Диплом\obj\Debug\Диплом.exe
+C:\Users\Степан\Documents\Университет\Диплом\Диплом\obj\Debug\Диплом.pdb
+C:\Users\Степан\Documents\Университет\Диплом\Диплом\obj\Debug\Диплом.csprojResolveAssemblyReference.cache
+C:\Users\Степан\Documents\Университет\Диплом\Диплом\bin\Debug\Диплом.exe.config
+C:\Users\Степан\Documents\Университет\Диплом\Диплом\bin\Debug\Диплом.exe.manifest
+C:\Users\Степан\Documents\Университет\Диплом\Диплом\bin\Debug\Диплом.application
+C:\Users\Степан\Documents\Университет\Диплом\Диплом\bin\Debug\Диплом.exe
+C:\Users\Степан\Documents\Университет\Диплом\Диплом\bin\Debug\Диплом.pdb
+C:\Users\Степан\Documents\Университет\Диплом\Диплом\obj\Debug\Диплом.application
+C:\Users\Степан\Documents\Университет\Диплом\Программа  СКП\Диплом\bin\Debug\Диплом.exe.config
+C:\Users\Степан\Documents\Университет\Диплом\Программа  СКП\Диплом\bin\Debug\Диплом.exe.manifest
+C:\Users\Степан\Documents\Университет\Диплом\Программа  СКП\Диплом\bin\Debug\Диплом.application
+C:\Users\Степан\Documents\Университет\Диплом\Программа  СКП\Диплом\bin\Debug\Диплом.exe
+C:\Users\Степан\Documents\Университет\Диплом\Программа  СКП\Диплом\bin\Debug\Диплом.pdb
+C:\Users\Степан\Documents\Университет\Диплом\Программа  СКП\Диплом\obj\Debug\Диплом.Form1.resources
+C:\Users\Степан\Documents\Университет\Диплом\Программа  СКП\Диплом\obj\Debug\Диплом.Form2.resources
+C:\Users\Степан\Documents\Университет\Диплом\Программа  СКП\Диплом\obj\Debug\Диплом.Properties.Resources.resources
+C:\Users\Степан\Documents\Университет\Диплом\Программа  СКП\Диплом\obj\Debug\Диплом.csproj.GenerateResource.Cache
+C:\Users\Степан\Documents\Университет\Диплом\Программа  СКП\Диплом\obj\Debug\Диплом.csproj.CoreCompileInputs.cache
+C:\Users\Степан\Documents\Университет\Диплом\Программа  СКП\Диплом\obj\Debug\Диплом.exe.manifest
+C:\Users\Степан\Documents\Университет\Диплом\Программа  СКП\Диплом\obj\Debug\Диплом.application
+C:\Users\Степан\Documents\Университет\Диплом\Программа  СКП\Диплом\obj\Debug\Диплом.exe
+C:\Users\Степан\Documents\Университет\Диплом\Программа  СКП\Диплом\obj\Debug\Диплом.pdb
+C:\Users\Степан\Documents\Университет\Диплом\Программа  СКП\Диплом\obj\Debug\Диплом.csprojResolveAssemblyReference.cache

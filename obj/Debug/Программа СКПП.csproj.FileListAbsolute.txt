@@ -1,0 +1,29 @@
+C:\Users\Степан\Documents\Университет\Диплом\Программа  СКП\Диплом\obj\Debug\Диплом.Form1.resources
+C:\Users\Степан\Documents\Университет\Диплом\Программа  СКП\Диплом\obj\Debug\Диплом.Form2.resources
+C:\Users\Степан\Documents\Университет\Диплом\Программа  СКП\Диплом\obj\Debug\Программа СКПП.csproj.GenerateResource.Cache
+C:\Users\Степан\Documents\Университет\Диплом\Программа  СКП\Диплом\obj\Debug\Программа СКПП.csproj.CoreCompileInputs.cache
+C:\Users\Степан\Documents\Университет\Диплом\Программа  СКП\Диплом\bin\Debug\Программа СКПП.exe.config
+C:\Users\Степан\Documents\Университет\Диплом\Программа  СКП\Диплом\bin\Debug\Программа СКПП.exe.manifest
+C:\Users\Степан\Documents\Университет\Диплом\Программа  СКП\Диплом\bin\Debug\Программа СКПП.application
+C:\Users\Степан\Documents\Университет\Диплом\Программа  СКП\Диплом\bin\Debug\Программа СКПП.exe
+C:\Users\Степан\Documents\Университет\Диплом\Программа  СКП\Диплом\bin\Debug\Программа СКПП.pdb
+C:\Users\Степан\Documents\Университет\Диплом\Программа  СКП\Диплом\obj\Debug\СКПП.Properties.Resources.resources
+C:\Users\Степан\Documents\Университет\Диплом\Программа  СКП\Диплом\obj\Debug\Программа СКПП.exe.manifest
+C:\Users\Степан\Documents\Университет\Диплом\Программа  СКП\Диплом\obj\Debug\Программа СКПП.application
+C:\Users\Степан\Documents\Университет\Диплом\Программа  СКП\Диплом\obj\Debug\Программа СКПП.exe
+C:\Users\Степан\Documents\Университет\Диплом\Программа  СКП\Диплом\obj\Debug\Программа СКПП.pdb
+C:\Users\Степан\Documents\Университет\Диплом\Программа СКПП\Диплом\bin\Debug\Программа СКПП.exe.config
+C:\Users\Степан\Documents\Университет\Диплом\Программа СКПП\Диплом\bin\Debug\Программа СКПП.exe.manifest
+C:\Users\Степан\Documents\Университет\Диплом\Программа СКПП\Диплом\bin\Debug\Программа СКПП.application
+C:\Users\Степан\Documents\Университет\Диплом\Программа СКПП\Диплом\bin\Debug\Программа СКПП.exe
+C:\Users\Степан\Documents\Университет\Диплом\Программа СКПП\Диплом\bin\Debug\Программа СКПП.pdb
+C:\Users\Степан\Documents\Университет\Диплом\Программа СКПП\Диплом\obj\Debug\Программа СКПП.csprojResolveAssemblyReference.cache
+C:\Users\Степан\Documents\Университет\Диплом\Программа СКПП\Диплом\obj\Debug\Диплом.Form1.resources
+C:\Users\Степан\Documents\Университет\Диплом\Программа СКПП\Диплом\obj\Debug\Диплом.Form2.resources
+C:\Users\Степан\Documents\Университет\Диплом\Программа СКПП\Диплом\obj\Debug\СКПП.Properties.Resources.resources
+C:\Users\Степан\Documents\Университет\Диплом\Программа СКПП\Диплом\obj\Debug\Программа СКПП.csproj.GenerateResource.Cache
+C:\Users\Степан\Documents\Университет\Диплом\Программа СКПП\Диплом\obj\Debug\Программа СКПП.csproj.CoreCompileInputs.cache
+C:\Users\Степан\Documents\Университет\Диплом\Программа СКПП\Диплом\obj\Debug\Программа СКПП.exe.manifest
+C:\Users\Степан\Documents\Университет\Диплом\Программа СКПП\Диплом\obj\Debug\Программа СКПП.application
+C:\Users\Степан\Documents\Университет\Диплом\Программа СКПП\Диплом\obj\Debug\Программа СКПП.exe
+C:\Users\Степан\Documents\Университет\Диплом\Программа СКПП\Диплом\obj\Debug\Программа СКПП.pdb
